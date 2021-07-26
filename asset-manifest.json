@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/programmingurukul/static/css/main.6508dd7e.chunk.css",
+    "main.js": "/programmingurukul/static/js/main.21fc39c2.chunk.js",
+    "main.js.map": "/programmingurukul/static/js/main.21fc39c2.chunk.js.map",
+    "runtime-main.js": "/programmingurukul/static/js/runtime-main.45fdd389.js",
+    "runtime-main.js.map": "/programmingurukul/static/js/runtime-main.45fdd389.js.map",
+    "static/css/2.d45d6843.chunk.css": "/programmingurukul/static/css/2.d45d6843.chunk.css",
+    "static/js/2.62515f62.chunk.js": "/programmingurukul/static/js/2.62515f62.chunk.js",
+    "static/js/2.62515f62.chunk.js.map": "/programmingurukul/static/js/2.62515f62.chunk.js.map",
+    "index.html": "/programmingurukul/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/programmingurukul/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.6508dd7e.chunk.css.map": "/programmingurukul/static/css/main.6508dd7e.chunk.css.map",
+    "static/js/2.62515f62.chunk.js.LICENSE.txt": "/programmingurukul/static/js/2.62515f62.chunk.js.LICENSE.txt",
+    "static/media/img1.2272c4a6.jpg": "/programmingurukul/static/media/img1.2272c4a6.jpg",
+    "static/media/img3.9decca57.jpg": "/programmingurukul/static/media/img3.9decca57.jpg",
+    "static/media/img5.85ae0697.jpg": "/programmingurukul/static/media/img5.85ae0697.jpg",
+    "static/media/img6.450fd789.jpg": "/programmingurukul/static/media/img6.450fd789.jpg",
+    "static/media/img7.fc2cf39b.jpg": "/programmingurukul/static/media/img7.fc2cf39b.jpg",
+    "static/media/img8.64717f5c.jpg": "/programmingurukul/static/media/img8.64717f5c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45fdd389.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.62515f62.chunk.js",
+    "static/css/main.6508dd7e.chunk.css",
+    "static/js/main.21fc39c2.chunk.js"
+  ]
+}
